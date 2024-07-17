@@ -1,0 +1,20 @@
+interview past papers
+https://docs.google.com/spreadsheets/u/0/d/14dddHAUkvIJiIvi-YUsUfWCESVCNkZxOJG9eRUFETWU/htmlview#
+React concepts
+https://chatgpt.com/share/f92df81e-c003-463f-b0c8-93f5b74f3185
+OS concepts
+https://chatgpt.com/share/a988aa19-fe92-48cd-82a6-3ee654e1685d
+difference bw IP and MAC address
+https://www.youtube.com/watch?v=bCtZX5EDWbQa
+Normalization docs
+https://chatgpt.com/share/b1393cde-5f6b-405d-b785-b2249ba589e2
+DB QUERIES
+https://chatgpt.com/share/1da78c0b-9a6c-405e-9841-76853c95be44
+LEADCODE BASICS
+how query will run in dbms
+https://chatgpt.com/share/58a54af6-b29c-4a76-8e65-cddeb691ad3b
+oop more questions
+https://chatgpt.com/share/c3151621-1f8a-4653-a9d3-0d9db079c1f8
+Socail media erd discussion
+https://chatgpt.com/share/a0c591af-bb7f-49d0-be67-f0fcafcd2feb
+Online shopping system erd diagram

@@ -1,0 +1,2 @@
+Tell us abput yourself?
+My name is Mehrab. Currently, I am in the last semester at FAST-NUCES. I have around 6 months of industry experience in frontend development, including Angular, React, React Native, Next.js. Additionally, I have some experience in backend technologies such as Node.js and Laravel
